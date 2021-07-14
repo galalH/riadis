@@ -1,0 +1,22 @@
+---
+title: "A dignity claim: Ageing on the move"
+description: |
+  Additional details and contact
+output: 
+  distill::distill_article:
+    theme: theme.css
+    toc: false
+    toc_float: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Contactos
+
+Si tiene algún comentario o pregunta sobre este informe, por favor contactar:
+
+* RIADIS: [direccion.conosur@riadis.org](mailto:direccion.conosur@riadis.org) y [proyectos.riadis@riadis.org](mailto:proyectos.riadis@riadis.org)
+
+* ACNUR: [penabric@unhcr.org](mailto:penabric@unhcr.org)

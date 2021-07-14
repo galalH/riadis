@@ -296,13 +296,10 @@ El estudio regional nos permite conocer e identificar vacíos y oportunidades pa
  *  Inclusión de las personas en movilidad humana con discapacidad en programas de construcción de capacidades, proyectos productivos y de inclusión laboral para fortalecer la autonomía y autosuficiencia de las personas. 
 
 
-## Contactos {.appendix}
+## Organizaciones Aliadas {.appendix}
 
-Si tiene algún comentario o pregunta sobre este informe, por favor contactar:
+[![COAMEX](images/logo/COAMEX_completo.png)](https://coalicionmexico.org.mx/) [![HI](images/logo/HI.png)](https://hi.org/) [![SODIS](images/logo/LOGO_SODIS_PNG.png)](https://sodisperu.org/)
 
-* RIADIS: [direccion.conosur@riadis.org](mailto:direccion.conosur@riadis.org) y [proyectos.riadis@riadis.org](mailto:proyectos.riadis@riadis.org)
-
-* ACNUR: [penabric@unhcr.org](penabric@unhcr.org)
 
 ```{js, echo=FALSE}
 (function() {  

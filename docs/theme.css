@@ -76,6 +76,12 @@ d-appendix {
   --text-color:      rgba(0, 0, 0, 0.5);
 }
 
+d-appendix p img {
+  margin: 10px;
+  width: 200px;
+  height: 100px;
+}
+
 /*-- WEBSITE HEADER + FOOTER --*/
 /* These properties only apply to Distill sites and blogs  */
 
@@ -92,21 +98,13 @@ d-appendix {
 .distill-site-footer {
 /*  --text-color:       rgba(255, 255, 255, 0.8);
   --bkgd-color:       #0072bc;*/
-  --text-color:       grey;
+  --text-color:       white;
   --text-size:        15px;
-  --hover-color:      black;
-  --bkgd-color:       white;
+  --hover-color:      #0072bc;
+  --bkgd-color:       black;
 }
 
-.distill-site-footer img {
-  height: 100px;
-  /* min-height: 64px; */
-  max-height: 200px;
-  
-  width: 200px;
-  min-width: 100px;
-  /* max-width: 64px; */
-}
+
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
