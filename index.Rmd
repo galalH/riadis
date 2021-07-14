@@ -298,7 +298,7 @@ El estudio regional nos permite conocer e identificar vacíos y oportunidades pa
 
 ## Organizaciones Aliadas {.appendix}
 
-[![COAMEX](images/logo/COAMEX_completo.png)](https://coalicionmexico.org.mx/) [![HI](images/logo/HI.png)](https://hi.org/) [![SODIS](images/logo/LOGO_SODIS_PNG.png)](https://sodisperu.org/)
+[![COAMEX](images/logos/COAMEX.png)](https://coalicionmexico.org.mx/) [![HI](images/logos/HI.png)](https://hi.org/) [![SODIS](images/logos/SODIS.png)](https://sodisperu.org/)
 
 
 ```{js, echo=FALSE}
