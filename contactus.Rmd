@@ -1,7 +1,7 @@
 ---
-title: "A dignity claim: Ageing on the move"
+title: "Discapacidad y Movilidad Humana"
 description: |
-  Additional details and contact
+  Por la inclusión de las personas con discapacidad en situación de movilidad humana en las Américas
 output: 
   distill::distill_article:
     theme: theme.css
