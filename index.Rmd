@@ -6,7 +6,6 @@ preview: images/macro/SPA_MACRO-1.jpg
 twitter:
   site: "@unhcr"
   creator: "@unhcr"
-repository_url: https://github.com/unhcr-americas/riadis  
 output: 
   distill::distill_article:
     theme: theme.css
@@ -219,6 +218,8 @@ SUGERENCIA: VIDEO O GIF
 :::
 :::
 
+<br>
+
 Las expectativas inmediatas de las personas encuestadas giran en torno a dos factores fundamentales: mejorar sus condiciones económicas a través del empleo o emprendimientos y regularizar su situación legal en el país de acogida.
 
 El 52% de las personas encuestadas se siente optimista sobre las expectativas hacia el futuro, mientras que el 46% percibe un futuro incierto con pocas posibilidades.
@@ -244,7 +245,7 @@ Las medidas de distanciamiento han representado restricciones en la movilidad de
 Sin duda alguna, con el incremento de la utilización de mecanismos virtuales como forma de comunicación remota durante la pandemia, se visibiliza la brecha en el acceso a la tecnología, acceso a los servicios de internet y telefonía, así como la falta de formatos accesibles para los diferentes tipos de discapacidad.
 
 
-::: {.parallax .parallax3}
+::: {.parallax .parallax4}
 ::: {.parallax-content}
 ## Conclusiones y Recomendaciones
 :::
@@ -293,6 +294,15 @@ El estudio regional nos permite conocer e identificar vacíos y oportunidades pa
  *  Garantizar la participación de las personas en movilidad humana con discapacidad en el diseño de programas de respuesta, y su posterior implementación, monitoreo y rendición de cuentas. 
 
  *  Inclusión de las personas en movilidad humana con discapacidad en programas de construcción de capacidades, proyectos productivos y de inclusión laboral para fortalecer la autonomía y autosuficiencia de las personas. 
+
+
+## Contactos {.appendix}
+
+Si tiene algún comentario o pregunta sobre este informe, por favor contactar:
+
+* RIADIS: [direccion.conosur@riadis.org](mailto:direccion.conosur@riadis.org) y [proyectos.riadis@riadis.org](mailto:proyectos.riadis@riadis.org)
+
+* ACNUR: [penabric@unhcr.org](penabric@unhcr.org)
 
 ```{js, echo=FALSE}
 (function() {  

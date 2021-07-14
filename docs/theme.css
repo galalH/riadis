@@ -80,24 +80,33 @@ d-appendix {
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --title-size:       18px;
+  --title-size:       30px;
 /*  --text-color:       rgba(255, 255, 255, 0.8);
   --bkgd-color:       #0072bc;*/
   --text-color:       black;
   --bkgd-color:       white;
-  --text-size:        15px;
+  --text-size:        18px;
   --hover-color:      grey;
 }
 
 .distill-site-footer {
 /*  --text-color:       rgba(255, 255, 255, 0.8);
   --bkgd-color:       #0072bc;*/
-  --text-color:       white;
+  --text-color:       grey;
   --text-size:        15px;
-  --hover-color:      white;
-  --bkgd-color:       black;
+  --hover-color:      black;
+  --bkgd-color:       white;
 }
 
+.distill-site-footer img {
+  height: 100px;
+  /* min-height: 64px; */
+  max-height: 200px;
+  
+  width: 200px;
+  min-width: 100px;
+  /* max-width: 64px; */
+}
 
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
@@ -120,7 +129,7 @@ d-appendix {
     height: auto; 
    width: 100%; !important
    height: auto; !important */  
-    width: 384px;
+    width: 200px;
     height: 100px;
     max-height: 100px;
 }
@@ -131,8 +140,9 @@ d-appendix {
 
 
 .distill-site-header .title {
-position: relative;
- /*transform: translateY(-70%); */
+  /* top: 25%; */
+  position: relative;
+  transform: translateY(50%);
 }
 
 .distill-site-header .nav-right {
