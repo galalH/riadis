@@ -38,7 +38,7 @@ navbar:
       - text: "Data"
         href: "http://microdata.unhcr.org"
       - text: "Infografia "
-        href: "images/info/Discapacidad y movilidad humana_infografia"
+        href: "images/info/Discapacidad y movilidad humana_infografia.pdf"
       - text: "Videos"
         href: "https://www.riadis.org/accion-humanitaria-inclusiva-acnur/"
 output: distill::distill_article

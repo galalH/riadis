@@ -2,7 +2,7 @@
 title: "Discapacidad y Movilidad Humana"
 description: |
   Por la inclusión de las personas con discapacidad en situación de movilidad humana en las Américas
-preview: images/macro/SPA_MACRO-1.jpg
+preview: images/macro/MACRO_1_SQ_SPA.jpg
 twitter:
   site: "@unhcr"
   creator: "@unhcr"
@@ -135,7 +135,7 @@ Este estudio regional fue realizado por organizaciones de personas con discapaci
 
 ### La motivación de salida del lugar de origen o residencia
 
-El acceso limitado a los servicios de salud como la habilitación y rehabilitación, el alto costo de dispositivos de apoyo, la falta de acceso al empleo y pérdida de capacidad adquisitiva, así como la inseguridad a la integridad de las personas, debido a la violencia, persecución, conflictos, delincuencia y amenazas que ponen en peligro su vida y la de su familia, constituyen las principales razones de salida de sus países de las personas con discapacidad.
+El acceso limitado a los servicios de salud como la habilitación y rehabilitación, el alto costo de dispositivos de apoyo, la falta de acceso al empleo y pérdida de capacidad adquisitiva, así como la **inseguridad a la integridad de las personas**, debido a la violencia, persecución, conflictos, delincuencia y amenazas que ponen en peligro su vida y la de su familia, constituyen las principales razones de salida de sus países de las personas con discapacidad.
 
 > "Por la situación económica del país, por temas de salud, por seguridad personal, mi esposo estaba haciendo campaña y lo amenazaron." (Entrevista mujer con discapacidad venezolana en Ecuador, 2020).
 
@@ -163,24 +163,24 @@ El 77.2% de las personas con discapacidad consultadas indicaron que no recibiero
 
 La evaluación identifica tres riesgos principales durante el trayecto o tránsito de las personas con discapacidad asociados a: la inseguridad y violencia; discriminación y la falta de accesibilidad.
 
-Los riesgos asociados a la inseguridad y violencia se presentan principalmente a las mujeres, niñas y niños con discapacidad, quienes están mayormente expuestos a situaciones de abuso, violencia de género y violencia sexual por parte de grupos armados, pandillas, crimen organizado u otros.
+Los riesgos asociados a la **inseguridad y violencia** se presentan principalmente a las mujeres, niñas y niños con discapacidad, quienes están mayormente expuestos a situaciones de abuso, violencia de género y violencia sexual por parte de grupos armados, pandillas, crimen organizado u otros.
 
 Los riesgos aumentan cuando el tránsito es sin documentación obligando a al ingreso por pasos irregulares, exponiéndoles a robos, abusos, violencia o extorsión de los grupos criminales que están a lo largo de la ruta.
 
 > "...crucé [la frontera] por trocha, con la niña de un año con discapacidad y el bebé de dos meses..." 
 > (Entrevista a una madre de un hijo con discapacidad venezolano en Ecuador, 2020).
 
-Debido a la situación de inseguridad y violencia la mayoría de las personas entrevistadas en los países participantes mencionan que desconocían qué pasos debían seguir para hacer una denuncia o prefirieron no acudir a la policía local y permanecer en el anonimato como medida de protección. La falta de una ruta de atención durante su desplazamiento incrementa los riesgos de protección existentes para una persona con discapacidad.
+Debido a la situación de inseguridad y violencia la mayoría de las personas entrevistadas en los países participantes mencionan que **desconocían qué pasos debían seguir para hacer una denuncia** o prefirieron no acudir a la policía local y permanecer en el anonimato como medida de protección. La falta de una ruta de atención durante su desplazamiento incrementa los riesgos de protección existentes para una persona con discapacidad.
 
 <aside>El **40.2%** de las personas con discapacidad consultadas indican que sí **han enfrentado situaciones de riesgo** durante su desplazamiento.</aside>
 
-El 62% de las personas encuestadas han sido discriminadas con acciones y actitudes. Se evidenció que las personas con discapacidad en situación de movilidad humana sufren de una doble discriminación, ya sea por su condición de discapacidad o por su nacionalidad en los países de tránsito y de acogida, construyendo una barrera.
+El 62% de las personas encuestadas han sido discriminadas con acciones y actitudes. Se evidenció que **las personas con discapacidad en situación de movilidad humana sufren de una doble discriminación**, ya sea por su condición de discapacidad o por su nacionalidad en los países de tránsito y de acogida, construyendo una barrera.
 
-Hay una falta de accesibilidad en el transporte para la movilización, los entornos durante el viaje, las instalaciones físicas de las organizaciones humanitarias y de gobierno, y en el acceso a la información. Al menos la mitad de las personas en situación de movilidad humana con discapacidad y sus familiares mencionaron que durante su trayecto en los países de tránsito y de destino no recibieron información sobre sus derechos y servicios disponibles en formatos que fueran accesibles.
+Hay una falta de accesibilidad en el **transporte** para la movilización, los **entornos** durante el viaje, las **instalaciones físicas** de las organizaciones humanitarias y de gobierno, y en el **acceso a la información**. Al menos la mitad de las personas en situación de movilidad humana con discapacidad y sus familiares mencionaron que durante su trayecto en los países de tránsito y de destino no recibieron información sobre sus derechos y servicios disponibles en formatos que fueran accesibles.
 
 Durante los últimos años muchas de las personas con discapacidad consultadas en México y Centroamérica manifestaron que el desplazamiento a través de las denominadas "caravanas migrantes" resulta mucho más fácil, ya que en cierta medida viajan acompañados/as y reciben apoyo en ciertos momentos durante el trayecto donde la movilización por su propia cuenta sería compleja.
 
-Existe una prevalencia de discapacidad que se adquiere en el tránsito, principalmente en la ruta hacia México y Estados Unidos debido a la utilización de trenes de carga conocido como "la bestia".
+Existe una **prevalencia de discapacidad que se adquiere en el tránsito**, principalmente en la ruta hacia México y Estados Unidos debido a la utilización de trenes de carga conocido como "la bestia".
 
 ```{r, layout="l-page"}
 include_graphics("images/macro/MACRO_1_SQ_SPA.jpg")
