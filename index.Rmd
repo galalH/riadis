@@ -2,7 +2,7 @@
 title: "Discapacidad y Movilidad Humana"
 description: |
   Por la inclusión de las personas con discapacidad en situación de movilidad humana en las Américas
-preview: images/macro/MACRO_1_SQ_SPA.jpg
+preview: images/macro/MACRO_5_TW_SPA.jpg
 twitter:
   site: "@unhcr"
   creator: "@unhcr"
@@ -154,11 +154,6 @@ De las personas con discapacidad consultadas algunas identificaron que tuvieron 
 
 El 77.2% de las personas con discapacidad consultadas indicaron que no recibieron ningún tipo de apoyo para salir del país, apenas el 18.9% mencionaron que recibieron apoyo económico de sus amistades y familiares, que en su mayoría se encuentran fuera del país y es a donde deciden desplazarse.
 
-```{r, layout="l-body"}
-#include_graphics("images/info/condition.png", dpi = NA)
-```
-
-
 ### La trayectoria del desplazamiento
 
 La evaluación identifica tres riesgos principales durante el trayecto o tránsito de las personas con discapacidad asociados a: la inseguridad y violencia; discriminación y la falta de accesibilidad.
@@ -183,7 +178,7 @@ Durante los últimos años muchas de las personas con discapacidad consultadas e
 Existe una **prevalencia de discapacidad que se adquiere en el tránsito**, principalmente en la ruta hacia México y Estados Unidos debido a la utilización de trenes de carga conocido como "la bestia".
 
 ```{r, layout="l-page"}
-include_graphics("images/macro/MACRO_1_SQ_SPA.jpg")
+include_graphics("images/macro/MACRO_5_TW_SPA.jpg")
 ```
 
 ### Situación en el lugar de acogida
