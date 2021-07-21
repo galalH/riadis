@@ -6,7 +6,7 @@ output_dir: "docs"
 google_analytics: "GTM-W55KLNP"
 navbar:
   logo:
-    image: images/logo.png
+    image: images/logo.jpg
     href: https://ageingonthemove.org
   right:
     - text: "Content"  
@@ -38,7 +38,7 @@ navbar:
       - text: "Data"
         href: "http://microdata.unhcr.org"
       - text: "Infografia "
-        href: "https://www.acnur.org/60ad71654"
+        href: "images/info/Discapacidad y movilidad humana_infografia"
       - text: "Media"
         href: "https://media.unhcr.org/Package/2CZ9LOL31BHY"
     - text: "English" 

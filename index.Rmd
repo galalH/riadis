@@ -102,6 +102,8 @@ El estudio comprende los vacíos y desafíos que enfrentan los Estados y las org
 
 Este estudio regional fue realizado por organizaciones de personas con discapacidad, liderado por la [Red Latinoamericana de Organizaciones No Gubernamentales de Personas con Discapacidad y sus Familias (RIADIS)](http://www.riadis.org/) y elaborado conjuntamente con la [Coalición México por los Derechos de las Personas con Discapacidad (COAMEX)](https://coalicionmexico.org.mx), México; [la Sociedad y Discapacidad (SODIS)](https://sodisperu.org/), Perú; y [Humanity&Inclusion (HI)](https://hi.org/en/index), Colombia; con el apoyo de la [Agencia de la ONU para los Refugiados (ACNUR)](https://www.acnur.org/). _Discapacidad y Movilidad Humana_, responde a los compromisos de ACNUR en promover respuestas integrales y fortalecer la participación de las personas con discapacidad en situación de desplazamiento forzado, asegurando su protección, integración y la búsqueda de soluciones.
 
+<iframe width="415" height="415" src="https://www.youtube.com/embed/r4hAttRywys?controls=0&autoplay=1&playlist=r4hAttRywys&loop=1&modestbranding=1" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ::: {.parallax .parallax1}
 ::: {.parallax-content}
 ## Un llamado a la acción
@@ -143,9 +145,6 @@ Las personas consultadas provenientes de Venezuela manifestaron que las condicio
 > "(…) el ocho de octubre miembros de las pandillas atacaron, matando (…) al abuelo de mis hijos.  Mi niño, el mayor, vio cómo lo iban siguiendo y uno de los pandilleros ...se acercó con un arma, amenazándole y diciéndole que si él comentaba algo de lo que había visto, lo iban a matar…"
 > (Entrevista mujer con discapacidad salvadoreña en México, 2020).
 
-> "...La cuestión económica allá en Venezuela se hacía cada vez más crítica; también en cuestiones de salud: ya mi hija no estaba recibiendo terapias como cuando inició, como cuando tenía tres meses. Ya no había fisiatras, no había nadie que le pudiera hacer las terapias como ella las amerita; y en cuestiones económicas como todos, que no me alcanza para pagar una consulta, para comprar los tratamientos..."
-> (Entrevista mamá de hija con discapacidad venezolana en Colombia, 2020).
-
 Las personas de países centroamericanos se ven forzadas a desplazarse, tanto a lo interno de sus fronteras como fuera de ellas, por razones de violencia, persecución, inseguridad a consecuencia del control que ejercen los grupos criminales y pandillas. También, estos factores se incrementan por la falta de oportunidades, la pobreza y los desastres naturales.
 
 <aside>
@@ -184,9 +183,9 @@ Durante los últimos años muchas de las personas con discapacidad consultadas e
 
 Existe una prevalencia de discapacidad que se adquiere en el tránsito, principalmente en la ruta hacia México y Estados Unidos debido a la utilización de trenes de carga conocido como "la bestia".
 
-SUGERENCIA: SOCIAL CARD SOBRE LA DISCAPACIDAD ADQUIRIDA
-
-Más de *400 personas en tránsito por México han sufrido lesiones graves** al caerse del tren conocido como "La Bestia"
+```{r, layout="l-page"}
+include_graphics("images/macro/MACRO_1_SQ_SPA.jpg")
+```
 
 ### Situación en el lugar de acogida
 
