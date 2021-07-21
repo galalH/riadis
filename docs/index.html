@@ -110,7 +110,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
   <!--radix_placeholder_rmarkdown_metadata-->
 
   <script type="text/json" id="radix-rmarkdown-metadata">
-  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","preview","twitter","repository_url","output"]}},"value":[{"type":"character","attributes":{},"value":["Discapacidad y Movilidad Humana"]},{"type":"character","attributes":{},"value":["Por la inclusión de las personas con discapacidad en situación de movilidad humana en las Américas\n"]},{"type":"character","attributes":{},"value":["images/macro/SPA_MACRO-1.jpg"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["site","creator"]}},"value":[{"type":"character","attributes":{},"value":["@unhcr"]},{"type":"character","attributes":{},"value":["@unhcr"]}]},{"type":"character","attributes":{},"value":["https://github.com/unhcr-americas/riadis"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["theme","toc","toc_float"]}},"value":[{"type":"character","attributes":{},"value":["theme.css"]},{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[false]}]}]}]}
+  {"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["title","description","preview","twitter","output"]}},"value":[{"type":"character","attributes":{},"value":["Discapacidad y Movilidad Humana"]},{"type":"character","attributes":{},"value":["Por la inclusión de las personas con discapacidad en situación de movilidad humana en las Américas\n"]},{"type":"character","attributes":{},"value":["images/macro/SPA_MACRO-1.jpg"]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["site","creator"]}},"value":[{"type":"character","attributes":{},"value":["@unhcr"]},{"type":"character","attributes":{},"value":["@unhcr"]}]},{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["distill::distill_article"]}},"value":[{"type":"list","attributes":{"names":{"type":"character","attributes":{},"value":["theme","toc","toc_float"]}},"value":[{"type":"character","attributes":{},"value":["theme.css"]},{"type":"logical","attributes":{},"value":[false]},{"type":"logical","attributes":{},"value":[false]}]}]}]}
   </script>
   <!--/radix_placeholder_rmarkdown_metadata-->
   <!--radix_placeholder_navigation_in_header-->
@@ -2190,16 +2190,22 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --text-color:      rgba(0, 0, 0, 0.5);
   }
 
+  d-appendix p img {
+    margin: 10px;
+    width: 200px;
+    height: 100px;
+  }
+
   /*-- WEBSITE HEADER + FOOTER --*/
   /* These properties only apply to Distill sites and blogs  */
 
   .distill-site-header {
-    --title-size:       18px;
+    --title-size:       30px;
   /*  --text-color:       rgba(255, 255, 255, 0.8);
     --bkgd-color:       #0072bc;*/
     --text-color:       black;
     --bkgd-color:       white;
-    --text-size:        15px;
+    --text-size:        18px;
     --hover-color:      grey;
   }
 
@@ -2208,16 +2214,14 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     --bkgd-color:       #0072bc;*/
     --text-color:       white;
     --text-size:        15px;
-    --hover-color:      white;
+    --hover-color:      #0072bc;
     --bkgd-color:       black;
   }
 
 
+
   /*-- Additional custom styles --*/
   /* Add any additional CSS rules below                      */
-
-
-
 
   .distill-site-header .logo {
       float: left;
@@ -2234,7 +2238,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
       height: auto; 
      width: 100%; !important
      height: auto; !important */  
-      width: 384px;
+      width: 450px;
       height: 100px;
       max-height: 100px;
   }
@@ -2245,8 +2249,9 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
 
   .distill-site-header .title {
-  position: relative;
-   /*transform: translateY(-70%); */
+    /* top: 25%; */
+    position: relative;
+    transform: translateY(50%);
   }
 
   .distill-site-header .nav-right {
@@ -2262,7 +2267,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   @media  (max-width: 480px)  {
     d-title {
-      background-image: url(images/para/header_m.jpg);
+      background-image: url(images/para/header_m.png);
       background-repeat: no-repeat;
       background-size:cover;
       background-position:center;
@@ -2310,8 +2315,6 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
     line-height: 1.1em;
     text-shadow: 2px 2px 4px #000000;
   }
-
-
 
 
   /*-- Highlighting elements --*/
@@ -2383,23 +2386,23 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 
   @media (max-width: 480px) {
     .parallax1{
-      background:url(images/para/parallax1_m.jpg);
+      background:url(images/para/parallax1_m.png);
       padding:400px 45px 10px 15px;
     }
     .parallax2{
-      background:url(images/para/parallax2_m.jpg);
+      background:url(images/para/parallax2_m.png);
       padding:400px 45px 10px 15px;
     }
     .parallax3{
-      background:url(images/para/parallax3_m.jpg);
+      background:url(images/para/parallax3_m.png);
       padding:400px 45px 10px 15px;
     }
     .parallax4{
-      background:url(images/para/parallax4_m.jpg);
+      background:url(images/para/parallax4_m.png);
       padding:400px 45px 10px 15px;
     }
     .parallax5{
-      background:url(images/para/parallax5_m.jpg);
+      background:url(images/para/parallax5_m.png);
       padding:400px 45px 10px 15px;
     }
   }
@@ -2714,7 +2717,7 @@ code span.wa { color: #5e5e5e; font-style: italic; } /* Warning */
 <header class="header header--fixed" role="banner">
 <nav class="distill-site-nav distill-site-header">
 <div class="nav-left">
-<a class="logo" href="https://ageingonthemove.org">
+<a class="logo" href="https://disabilitiesonthemove.org">
 <img src="images/logo.jpg" alt="Logo"/>
 </a>
 <a href="index.html" class="title">Discapacidad y Movilidad Humana</a>
@@ -2727,14 +2730,14 @@ Content
 <span class="down-arrow">&#x25BE;</span>
 </button>
 <div class="nav-dropdown-content">
-<a href="index.html#llamado-a-la-acción">Llamado a la acción</a>
-<a href="index.html#cuáles-son-los-riesgos-de-protección-y-desafíos-que-enfrentan-las-personas-mayores-en-situación-de-movilidad-humana-en-las-américas">Situación de las personas con discapacidad en las Américas</a>
-<a href="index.html#llamado-a-la-acción">- La motivación de salida del lugar de origen o residencia</a>
-<a href="index.html#llamado-a-la-acción">- La trayectoria del desplazamiento</a>
-<a href="index.html#llamado-a-la-acción">- Situación en el lugar de acogida</a>
-<a href="index.html#llamado-a-la-acción">Expectativas a futuro</a>
-<a href="index.html#llamado-a-la-acción">El impacto de la COVID-19 en las personas con discapacidad en las Américas</a>
-<a href="index.html#conclusiones">Conclusiones</a>
+<a href="index.html#un-llamado-a-la-acción">Un llamado a la acción</a>
+<a href="index.html#situación-de-las-personas-en-movilidad-humana-con-discapacidad-en-las-américas">Situación de las personas en movilidad humana con discapacidad en las Américas</a>
+<a href="index.html#la-motivación-de-salida-del-lugar-de-origen-o-residencia">- La motivación de salida del lugar de origen o residencia</a>
+<a href="index.html#la-trayectoria-del-desplazamiento">- La trayectoria del desplazamiento</a>
+<a href="index.html#situación-en-el-lugar-de-acogida">- Situación en el lugar de acogida</a>
+<a href="index.html#expectativas-hacia-el-futuro">Expectativas hacia el futuro</a>
+<a href="index.html#el-impacto-de-la-covid-19-en-las-personas-con-discapacidad-en-situación-de-movilidad-en-las-américas">El impacto de la COVID-19 en las personas con discapacidad en situación de movilidad en las Américas</a>
+<a href="index.html#conclusiones-y-recomendaciones">Conclusiones y Recomendaciones</a>
 </div>
 </div>
 <div class="nav-dropdown">
@@ -2745,14 +2748,13 @@ Descargar
 </button>
 <div class="nav-dropdown-content">
 <a href="https://www.acnur.org/60ad73844.pdf#page=14">Resumen Ejecutivo</a>
-<a href="https://www.acnur.org/60ad73844">Reporte</a>
+<a href="https://www.acnur.org/60ad73844.pdf">Reporte</a>
 <a href="https://www.acnur.org/60ad73844.pdf#page=190">Anexos</a>
 <a href="http://microdata.unhcr.org">Data</a>
 <a href="images/info/Discapacidad y movilidad humana_infografia">Infografia </a>
-<a href="https://media.unhcr.org/Package/2CZ9LOL31BHY">Media</a>
+<a href="https://www.riadis.org/accion-humanitaria-inclusiva-acnur/">Videos</a>
 </div>
 </div>
-<a href="../index.html">English</a>
 <a href="javascript:void(0);" class="nav-toggle">&#9776;</a>
 </div>
 </nav>
@@ -2890,6 +2892,7 @@ El 66% de las personas encuestadas menciona que no recibió asistencia humanitar
 <h2>Expectativas hacia el futuro</h2>
 </section>
 </div>
+<p><br></p>
 <p>Las expectativas inmediatas de las personas encuestadas giran en torno a dos factores fundamentales: mejorar sus condiciones económicas a través del empleo o emprendimientos y regularizar su situación legal en el país de acogida.</p>
 <p>El 52% de las personas encuestadas se siente optimista sobre las expectativas hacia el futuro, mientras que el 46% percibe un futuro incierto con pocas posibilidades.</p>
 <p>Algunas de las personas con discapacidad en situación de movilidad humana consultadas, manifestaron que tienen la expectativa de algún día poder regresar a su país de origen, cuando las condiciones que dieron paso a su salida cambien y sientan que puedan construir una vida.</p>
@@ -2904,7 +2907,7 @@ El 66% de las personas encuestadas menciona que no recibió asistencia humanitar
 Para algunas de las personas con discapacidad con enfermedades crónicas o con familiares/personas de apoyo con enfermedades crónicas, ven aún más limitada su capacidad de movilidad lo que conlleva a un nivel mayor de dependencia hacia terceros.
 </aside>
 <p>Sin duda alguna, con el incremento de la utilización de mecanismos virtuales como forma de comunicación remota durante la pandemia, se visibiliza la brecha en el acceso a la tecnología, acceso a los servicios de internet y telefonía, así como la falta de formatos accesibles para los diferentes tipos de discapacidad.</p>
-<div class="parallax parallax3">
+<div class="parallax parallax4">
 <section id="conclusiones-y-recomendaciones" class="parallax-content">
 <h2>Conclusiones y Recomendaciones</h2>
 </section>
@@ -2936,6 +2939,8 @@ Para algunas de las personas con discapacidad con enfermedades crónicas o con f
 <li><p>Garantizar la participación de las personas en movilidad humana con discapacidad en el diseño de programas de respuesta, y su posterior implementación, monitoreo y rendición de cuentas.</p></li>
 <li><p>Inclusión de las personas en movilidad humana con discapacidad en programas de construcción de capacidades, proyectos productivos y de inclusión laboral para fortalecer la autonomía y autosuficiencia de las personas.</p></li>
 </ul>
+<h2 class="appendix" id="organizaciones-aliadas">Organizaciones Aliadas</h2>
+<p><a href="https://coalicionmexico.org.mx/"><img src="images/logos/COAMEX.png" alt="COAMEX" /></a> <a href="https://hi.org/"><img src="images/logos/HI.png" alt="HI" /></a> <a href="https://sodisperu.org/"><img src="images/logos/SODIS.png" alt="SODIS" /></a></p>
 <div class="layout-chunk" data-layout="l-body">
 <script type="text/javascript">
 (function() {  
@@ -2957,14 +2962,11 @@ Para algunas de las personas con discapacidad con enfermedades crónicas o con f
 <!--radix_placeholder_site_after_body-->
 <!--/radix_placeholder_site_after_body-->
 <!--radix_placeholder_appendices-->
-<div class="appendix-bottom">
-<h3 id="updates-and-corrections">Corrections</h3>
-<p>If you see mistakes or want to suggest changes, please <a href="https://github.com/unhcr-americas/riadis/issues/new">create an issue</a> on the source repository.</p>
-</div>
+<div class="appendix-bottom"></div>
 <!--/radix_placeholder_appendices-->
 <!--radix_placeholder_navigation_after_body-->
 <div class="distill-site-nav distill-site-footer">
-<p>© 2021 <a href="https://www.unhcr.org/about-us.html">UNHCR</a> / <a href="http://www.riadis.org/">RIADIS</a> / <a href="https://coalicionmexico.org.mx">COAMEX</a> / <a href="https://sodisperu.org/">SODIS</a> /<a href="https://hi.org/en/index">HI</a> | <a href="https://www.unhcr.org/contact-us.html">Contact</a> | <a href="https://www.unhcr.org/terms-and-conditions.html">Terms and conditions of use</a> | <a href="https://www.unhcr.org/privacy-policy.html">Privacy policy</a> | <a href="about.html">About this study</a></p>
+<p>© 2021 UNHCR / RIADIS | <a href="https://www.acnur.org/terminos-y-condiciones-de-uso.html">Términos y Condiciones de Uso</a> | <a href="https://www.acnur.org/politica-de-privacidad.html">Política de Privacidad</a> | <a href="contactus.html">Contactos</a></p>
 </div>
 <!--/radix_placeholder_navigation_after_body-->
 

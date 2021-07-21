@@ -76,16 +76,22 @@ d-appendix {
   --text-color:      rgba(0, 0, 0, 0.5);
 }
 
+d-appendix p img {
+  margin: 10px;
+  width: 200px;
+  height: 100px;
+}
+
 /*-- WEBSITE HEADER + FOOTER --*/
 /* These properties only apply to Distill sites and blogs  */
 
 .distill-site-header {
-  --title-size:       18px;
+  --title-size:       30px;
 /*  --text-color:       rgba(255, 255, 255, 0.8);
   --bkgd-color:       #0072bc;*/
   --text-color:       black;
   --bkgd-color:       white;
-  --text-size:        15px;
+  --text-size:        18px;
   --hover-color:      grey;
 }
 
@@ -94,16 +100,14 @@ d-appendix {
   --bkgd-color:       #0072bc;*/
   --text-color:       white;
   --text-size:        15px;
-  --hover-color:      white;
+  --hover-color:      #0072bc;
   --bkgd-color:       black;
 }
 
 
+
 /*-- Additional custom styles --*/
 /* Add any additional CSS rules below                      */
-
-
-
 
 .distill-site-header .logo {
     float: left;
@@ -120,7 +124,7 @@ d-appendix {
     height: auto; 
    width: 100%; !important
    height: auto; !important */  
-    width: 384px;
+    width: 450px;
     height: 100px;
     max-height: 100px;
 }
@@ -131,8 +135,9 @@ d-appendix {
 
 
 .distill-site-header .title {
-position: relative;
- /*transform: translateY(-70%); */
+  /* top: 25%; */
+  position: relative;
+  transform: translateY(50%);
 }
 
 .distill-site-header .nav-right {
@@ -148,7 +153,7 @@ position: relative;
 
 @media  (max-width: 480px)  {
   d-title {
-    background-image: url(images/para/header_m.jpg);
+    background-image: url(images/para/header_m.png);
     background-repeat: no-repeat;
     background-size:cover;
     background-position:center;
@@ -196,8 +201,6 @@ d-title p {
   line-height: 1.1em;
   text-shadow: 2px 2px 4px #000000;
 }
-
-
 
 
 /*-- Highlighting elements --*/
@@ -269,23 +272,23 @@ a.tweet-link {
 
 @media (max-width: 480px) {
   .parallax1{
-    background:url(images/para/parallax1_m.jpg);
+    background:url(images/para/parallax1_m.png);
     padding:400px 45px 10px 15px;
   }
   .parallax2{
-    background:url(images/para/parallax2_m.jpg);
+    background:url(images/para/parallax2_m.png);
     padding:400px 45px 10px 15px;
   }
   .parallax3{
-    background:url(images/para/parallax3_m.jpg);
+    background:url(images/para/parallax3_m.png);
     padding:400px 45px 10px 15px;
   }
   .parallax4{
-    background:url(images/para/parallax4_m.jpg);
+    background:url(images/para/parallax4_m.png);
     padding:400px 45px 10px 15px;
   }
   .parallax5{
-    background:url(images/para/parallax5_m.jpg);
+    background:url(images/para/parallax5_m.png);
     padding:400px 45px 10px 15px;
   }
 }
