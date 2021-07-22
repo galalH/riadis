@@ -2,7 +2,7 @@
 title: "Discapacidad y Movilidad Humana"
 description: |
   Por la inclusión de las personas con discapacidad en situación de movilidad humana en las Américas
-preview: images/macro/MACRO_5_TW_SPA.jpg
+preview: images/para/header.jpg
 twitter:
   site: "@unhcr"
   creator: "@unhcr"
@@ -221,6 +221,21 @@ Algunas de las personas con discapacidad en situación de movilidad humana consu
 "Yo me imagino un futuro en mi país, que hayan condiciones para poder estabilizarse y que no sea tan complicado cubrir las necesidades." (Entrevista a un hombre con discapacidad visual venezolano en Chile, 2020).
 
 Pese a las diversas barreras identificadas hacia las personas con discapacidad en situación de movilidad humana, existen algunos elementos facilitadores, tales como: redes de apoyo, la priorización en los programas de asistencia humanitaria, la articulación del trabajo para brindar medidas de protección y la solidaridad y apoyo de las comunidades de acogida.
+
+<div class="story">
+### HISTORIA: La vida es una 'ardua batalla' para las personas desplazadas con discapacidad  
+
+Manuel trabajó como conductor: transportaba pasajeros en ferry por su natal Guatemala. Por desgracia, se convirtió en blanco de un grupo criminal, cuyos integrantes comenzaron a extorsionarlo exigiendo pagos semanales; estos eran tan onerosos que Manuel no podía cubrirlos. Como represalia, lo golpearon con tal brutalidad que su pierna izquierda tuvo que ser amputada, y tanto él como su esposa, Ana, no tuvieron otra opción que huir del país. 
+
+Ana y Manuel tomaron algunas pertenencias y, para no someter a sus hijos al trauma y a los peligros del viaje, los enviaron con familiares en una región distante en el país centroamericano. Manuel y su esposa tomaron varios autobuses para atravesar la frontera norte con México.  
+
+<img src="images/macro/story.jpg" width="100%" height="auto"/>
+
+> "Fue muy difícil porque apenas habían pasado cuatro meses desde la amputación", recordó Manuel.  
+
+[...¡Lee la historia completa aquí! ](https://www.acnur.org/noticias/briefing/2021/7/60f88a5d4/la-vida-es-una-ardua-batalla-para-las-personas-desplazadas-con-discapacidad.html)
+
+</div>
 
 ## El impacto de la COVID-19 en las personas con discapacidad en situación de movilidad en las Américas
 
