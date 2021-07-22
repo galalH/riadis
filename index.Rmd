@@ -77,7 +77,7 @@ meta() %>%
     title = "Discapacidad y Movilidad Humana",
     description = "Por la inclusión de las personas con discapacidad en situación de movilidad humana en las Américas",
     url = "https://disabilitiesonthemove.org",
-    image = "images/para/header.jpg",
+    image = "https://disabilitiesonthemove.org/images/para/header.jpg",
     image_alt = "Discapacidad y Movilidad Humana",
     og_type = "website",
     og_author = "ACNUR",
@@ -101,7 +101,7 @@ El estudio comprende los vacíos y desafíos que enfrentan los Estados y las org
 
 Este estudio regional fue realizado por organizaciones de personas con discapacidad, liderado por la [Red Latinoamericana de Organizaciones No Gubernamentales de Personas con Discapacidad y sus Familias (RIADIS)](http://www.riadis.org/) y elaborado conjuntamente con la [Coalición México por los Derechos de las Personas con Discapacidad (COAMEX)](https://coalicionmexico.org.mx), México; [la Sociedad y Discapacidad (SODIS)](https://sodisperu.org/), Perú; y [Humanity&Inclusion (HI)](https://hi.org/en/index), Colombia; con el apoyo de la [Agencia de la ONU para los Refugiados (ACNUR)](https://www.acnur.org/). _Discapacidad y Movilidad Humana_, responde a los compromisos de ACNUR en promover respuestas integrales y fortalecer la participación de las personas con discapacidad en situación de desplazamiento forzado, asegurando su protección, integración y la búsqueda de soluciones.
 
-<iframe width="415" height="415" src="https://www.youtube.com/embed/XEuaao-MC4E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="415" height="415" src="https://www.youtube.com/embed/XEuaao-MC4E" title="YouTube video player" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ::: {.parallax .parallax1}
 ::: {.parallax-content}
